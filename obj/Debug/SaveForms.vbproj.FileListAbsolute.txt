@@ -1,0 +1,8 @@
+C:\Users\acer\Desktop\School\5th Year\2nd sem\Elect 3\Camcam SaveForms\SaveForms\SaveForms\obj\Debug\SaveForms.vbprojAssemblyReference.cache
+C:\Users\acer\Desktop\School\5th Year\2nd sem\Elect 3\Camcam SaveForms\SaveForms\SaveForms\obj\Debug\SaveForms.Form1.resources
+C:\Users\acer\Desktop\School\5th Year\2nd sem\Elect 3\Camcam SaveForms\SaveForms\SaveForms\obj\Debug\SaveForms.Resources.resources
+C:\Users\acer\Desktop\School\5th Year\2nd sem\Elect 3\Camcam SaveForms\SaveForms\SaveForms\obj\Debug\SaveForms.vbproj.GenerateResource.cache
+C:\Users\acer\Desktop\Camcam SaveForms\SaveForms\SaveForms\obj\Debug\SaveForms.vbprojAssemblyReference.cache
+C:\Users\acer\Desktop\Camcam SaveForms\SaveForms\SaveForms\obj\Debug\SaveForms.Form1.resources
+C:\Users\acer\Desktop\Camcam SaveForms\SaveForms\SaveForms\obj\Debug\SaveForms.Resources.resources
+C:\Users\acer\Desktop\Camcam SaveForms\SaveForms\SaveForms\obj\Debug\SaveForms.vbproj.GenerateResource.cache
